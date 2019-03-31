@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "beast.jpg"
+    },
+    {
+      "id": 2,
+      "image": "belle.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "chip.jpg"
+    },
+    {
+      "id": 4,
+      "image": "closet.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "cogsworth.jpg"
+    },
+    {
+      "id": 6,
+      "image": "dog.jpg"
+    },
+    {
+      "id": 7,
+      "image": "featherduster.jpg"
+    },
+    {
+      "id": 8,
+      "image": "gaston.jpg"
+    },
+    {
+      "id": 9,
+      "image": "LeFou.jpg"
+    },
+    {
+      "id": 10,
+      "image": "lumieer.jpg"
+    },
+    {
+      "id": 11,
+      "image": "mrs-pot.jpg"
+    },
+    {
+      "id": 12,
+      "image": "papa.jpg"
+    }
+  ]
